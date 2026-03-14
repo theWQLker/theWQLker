@@ -16,7 +16,7 @@
 
 ### What I build
 
-I write production software — web applications, internal tools, and SaaS platforms — and I run the businesses behind them.
+I write production software web applications, internal tools, and SaaS platforms and I run the businesses behind them.
 
 **[TraviXO Systems](https://travixosystems.com)** is a B2B SaaS platform I founded and built from scratch, targeting French equipment rental companies with QR-based asset tracking and regulatory compliance automation. Real product, real market, deployed.
 
