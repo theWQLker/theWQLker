@@ -16,7 +16,7 @@
 
 ### What I build
 
-I write production software web applications, internal tools, and SaaS platforms and I run the businesses behind them.
+I write production software, web applications, internal tools, and SaaS platforms, and I run the businesses behind them.
 
 **[TraviXO Systems](https://travixosystems.com)** is a B2B SaaS platform I founded and built from scratch, targeting French equipment rental companies with QR-based asset tracking and regulatory compliance automation. Real product, real market, deployed.
 
@@ -37,10 +37,10 @@ PHP (Slim) · MySQL · TiDB · Tailwind CSS · Heroku · Vercel
 
 | Project | What it is | Stack |
 |---|---|---|
-| [EcoRidePool](https://github.com/theWQLker/Ecoridepool-Ride) | Mobile-first carpooling platform — trip management, role dashboards, live on Heroku | PHP · MySQL · Bootstrap |
-| [Arcadia Zoo](https://github.com/theWQLker/arcadia-zoo-management) | Zoo management system — animals, habitats, staff, full CRUD | PHP OOP · MySQL |
-
-> TraviXO and Deralis portfolio repos coming soon.
+| [TraviXO](https://github.com/theWQLker/Travixo-demo) | B2B SaaS for QR-based asset tracking and VGP compliance automation. Founder-built, live at travixosystems.com | Next.js 15 · TypeScript · Supabase |
+| [Deralis Digital](https://github.com/theWQLker/deralis-digital) | Production website for my web development agency. Bilingual, SEO-optimised, live at deralisdigital.com | Next.js 15 · TypeScript · Tailwind |
+| [EcoRidePool](https://github.com/theWQLker/Ecoridepool-Ride) | Mobile-first carpooling platform, trip management, role dashboards, live on Heroku | PHP · Slim · MySQL · MongoDB |
+| [Arcadia Zoo](https://github.com/theWQLker/arcadia-zoo-management) | Zoo management system with admin, vet, and employee dashboards. First DWWM project | PHP · MySQL · MongoDB |
 
 ---
 
