@@ -42,6 +42,7 @@ built in October 2026, each around one real workflow. All use fictional data and
 | [Régie](https://deralis-music-ops-demo.vercel.app) | Artist bookings and own events in one agenda | Guided scenario |
 | [Booking desk](https://deralis-talent-booking-demo.vercel.app) | Holds and bookings, from casting to call sheet | Guided scenario |
 | [Atelier](https://deralis-collective-demo.vercel.app) | From a client brief to a confirmed team, with talent matched by competency | Guided scenario |
+| [Flow Board](https://deralis-flow-board.vercel.app) | Team requests from first call to closure: stage, blocker, owner and next action on one shared board | Guided scenario |
 
 ---
 
